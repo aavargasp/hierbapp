@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".MainActivity" >
+
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/titlebar"
+                android:layout_width="fill_parent"
+                android:layout_height="12dp"
+                android:layout_alignParentTop="true" />
+
+            <LinearLayout
+                android:id="@+id/herbs_search_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/titlebar"
+                android:background="@color/barra_busqueda"
+                android:paddingBottom="4dp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="4dp" >
+
+                <EditText
+                    android:id="@+id/herbs_search"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/barra_buscador_linea"
+                    android:drawablePadding="15dp"
+                    android:drawableRight="@drawable/lupa"
+                    android:hint="@string/search_hint"
+                    android:inputType="text"
+                    android:maxLength="20"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="10dp"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@+id/herbs_search_container"
+                android:layout_marginBottom="64dp"
+                android:visibility="visible" />
+
+            <ListView
+                android:id="@+id/herbs_list"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@+id/herbs_search_container"
+                android:layout_marginBottom="70dp"
+                android:cacheColorHint="@android:color/transparent"
+                android:divider="@color/amarillo"
+                android:dividerHeight="2dp"
+                android:fastScrollEnabled="true"
+                android:listSelector="@android:color/transparent"
+                android:visibility="gone" />
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true" >
+            </TabWidget>
+        </RelativeLayout>
+    </TabHost>
+
+</RelativeLayout>

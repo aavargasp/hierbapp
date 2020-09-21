@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hierbapp</string>
+    <string name="save">Guardar</string>
+    <string name="app_link">http://play.google.com/store/apps/details?id="cl.sepidesign.herbs</string>
+    <string name="action_share">Compartir</string>
+    <string name="share">Compartir con:</string>
+    <string name="tab_methods">Métodos</string>
+    <string name="tab_symptoms">Síntomas</string>
+    <string name="tab_herbs">Hierbas</string>
+    <string name="tab_favorites">Herbolario</string>
+    <string name="tab_info">Info</string>
+    <string name="method1">Mix de hierbas, frescas, secas o hervidas que se colocan en trozos, o como pasta, dentro de una gaza. Esto se aplica sobre la parte del cuerpo con la dolencia.\nSe aplica caliente o frío según corresponda, para calmar dolencias e inflamaciones musculares.</string>
+    <string name="method2">Poner las partes escogidas de la planta, colocarlas en una olla y cubrirla de agua fría.\nPoner a calentar a fuego lento hasta que hierva de 1 a 3 minutos, tiempo suficiente como para entregar los componentes activos al agua. Luego se cubre y se deja reposar por varios minutos. Se puede beber frío o caliente, sin aditivos.</string>
+    <string name="method3">Colocar una cucharadita de hierba en una taza, luego se cubren con agua recién hervida, se tapa y se deja descansar por 10 min. Luego se cuela y está lista para beber.\n\nIdealmente tomar caliente y sin aditivos como azúcar o endulzante. Evite su preparación en utensilios de aluminio.</string>
+    <string name="method4">Poner las partes escogidas de la planta, colocarlas en una olla y cubrirla de agua fría.\nPoner a calentar a fuego lento hasta que hierva de 1 a 3 minutos, tiempo suficiente como para entregar los componentes activos al agua. Luego se cubre y se deja reposar por varios minutos. Se puede beber frío o caliente, sin aditivos.</string>
+    <string name="wikipedia_btn">Más información en Wikipedia</string>
+    <string name="search_hint">Nombre o Síntoma</string>
+    <string name="favorites_full">No se puede agregar a favortios, son maximo 6 hierbas favoritas</string>
+    <string name="annotation_hint">Agrega aquí los apuntes sobre la hierba&#8230;</string>
+    
+</resources>

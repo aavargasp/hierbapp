@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".SymptomsActivity" >
+
+    <ListView
+        android:id="@+id/simptoms_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@color/amarillo"
+        android:dividerHeight="2dp"
+        android:fastScrollEnabled="true"
+        android:listSelector="@android:color/transparent" >
+    </ListView>
+
+</RelativeLayout>

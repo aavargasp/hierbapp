@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="divisor">#AFCA0B</color>
+    <color name="barra_busqueda">#5D5B59</color>
+    <color name="detalle_metodo">#F8F5F0</color>
+    
+    <color name="morado">#BC75C6</color>
+    <color name="amarillo">#EAC428</color>
+    <color name="verde">#B6CD59</color>
+    <color name="rojo">#E86B6B</color>
+    <color name="celeste">#7DBAD0</color>
+    <color name="gris">#555555</color>
+    
+    <color name="cafe">#5E5953</color>
+</resources>

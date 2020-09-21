@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/flecha_abajo" android:state_empty="true"/>
+    <item android:drawable="@drawable/flecha_arriba" android:state_expanded="true"/>
+    <item android:drawable="@drawable/flecha_abajo"/>
+
+</selector>

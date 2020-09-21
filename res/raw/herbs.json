@@ -1,0 +1,339 @@
+[
+    {
+        "id": 1,
+        "name": "Aloe Vera",
+        "short_name" : "aloe",
+        "wiki": "http://es.wikipedia.org/wiki/Aloe_vera",
+        "scientific_name": "",
+        "other_names": [
+            "aloe",
+            "sábila"
+        ],
+        "important_parts": "Gel interior de las hojas",
+        "habitat": "Los aloes se pueden cultivar en una gran variedad de climas y suelos, pero necesitan protección contra las heladas",
+        "characteristics": "Laxante, cicatrizante, astringente.",
+        "symptoms": [
+            "Úlceras",
+            "Quemaduras",
+            "Heridas",
+            "Insolación",
+            "Hemorroides"
+        ],
+        "preparation": "Beber el gel de un trozo de hoja de 10 cm más o menos, puro o mezclado con agua o jugo de fruta, 2 ó 3 veces al día.\nUso externo: Como cicatrizante de heridas menores, quemaduras u otro tipo de laceraciones, se aplica el gel directamente en la piel.",
+        "precautions": "No aconsejable para embarazadas, en periodos de la lactancia y niños menores de 10 años. Ni cuando existan dolores abdominales, náuseas y vómitos. No se debe administrar a pacientes con enfermedad de Crohn, colitis ulcerativa y síndrome de colon irritable.\nComo todo laxante, no se debe utilizar en tratamientos por más de 1 a 2 semanas.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 2,
+        "name": "Anís",
+        "short_name" : "anis",
+        "wiki": "http://es.wikipedia.org/wiki/Pimpinella_anisum",
+        "scientific_name": "Pimpinella anisum L",
+        "other_names": [
+            "Anís verde"
+        ],
+        "important_parts": "Frutos",
+        "habitat": "Clima seco y sin frío excesivo, produce una cosecha al año. Se recomienda abonar orgánicamente complementando.",
+        "characteristics": "Antiespasmódico, Carminativo, Colagogo, Galactógeno",
+        "symptoms": [
+            "Indigestión",
+            "Flatulencia / Gases",
+            "Cólicos",
+            "Resfrío",
+            "Tos",
+            "Faringitis",
+            "Bronquitis",
+            "Fiebre",
+            "Hipo",
+            "Escases de leche materna"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada de vegetal para 1litro de agua recién hervida: beber 1 taza 2 a 3 veces al día.",
+        "precautions": "A dosis altas puede resultar tóxico, por lo que debe utilizarse con moderación. \nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 3,
+        "name": "Bailahuén",
+        "short_name" : "baylahuen",
+        "wiki": "http://es.wikipedia.org/wiki/Haplopappus_baylahuen",
+        "scientific_name": "Haplopappus",
+        "other_names": [
+            "Baylahuén",
+            "Failawen"
+        ],
+        "important_parts": "Hojas y tallos",
+        "habitat": "Su recolección se realiza de especies silvestres ubicadas especialmente en las partes bajas de las colinas de las zonas con clima templado",
+        "characteristics": "Antiséptico, digestivo.",
+        "symptoms": [
+            "Dispepsia / indigestión",
+            "Resfrío",
+            "Gripe",
+            "Neumonía",
+            "Heridas infectadas",
+            "Úlceras",
+            "Impotencia masculina",
+            "Cólicos abdominales",
+            "Cálculos renales"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua hirviendo: beber 1 taza 3 veces al día.\nUso externo: Para lavar heridas y úlceras de la piel, usar la misma infusión.",
+        "precautions": "Evite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 4,
+        "name": "Boldo",
+        "short_name" : "boldo",
+        "wiki": "http://es.wikipedia.org/wiki/Peumus_boldus",
+        "scientific_name": "Peumus boldus Molina",
+        "other_names": [
+            "Boldo de Chile"
+        ],
+        "important_parts": "Hojas",
+        "habitat": "Crece en diversas condiciones, bien adaptado a lugares de poca humedad y suelos pedregosos. Florece de junio a agosto y sus frutos maduran entre diciembre y enero.",
+        "characteristics": "Especie chilena más difundida en Chile. Digestivo, laxante suave, sedante nervioso, anti-inflamatorio y protector hepático.",
+        "symptoms": [
+            "Dispepsia / indigestión",
+            "Problemas hepáticos",
+            "Cálculos biliares",
+            "Cálculos renales",
+            "Ansiedad",
+            "Nervios",
+            "Hematomas / Contusiones"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada para 1 litro de agua hirviendo: beber 1 taza 3 veces al día.",
+        "precautions": "No usar en caso de obstrucción de la vía biliar (ictericia). No se recomienda su administración oral durante el embarazo ni en niños menores de 10 años. No usar por periodos prolongados de tiempo ni infusiones demasiado concentradas. En pacientes con cálculos renales usar sólo bajo vigilancia médica.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 5,
+        "name": "Cedrón",
+        "short_name" : "cedron",
+        "wiki": "http://es.wikipedia.org/wiki/Aloysia_triphylla",
+        "scientific_name": "Aloysia citrodora Paláu",
+        "other_names": [
+            "Hierba Luisa",
+            "Verbena Olorosa"
+        ],
+        "important_parts": "Hojas y tallos",
+        "habitat": "Crece en diversas condiciones, bien adaptado a lugares de poca humedad y suelos pedregosos. Florece de junio a agosto y sus frutos maduran entre diciembre y enero.",
+        "characteristics": "Tratamiento para afecciones gastrointestinales, calmante para el sistema nervioso y para cuadros febriles de resfrío. Antiespasmódico, antibacteriano, carminativo, sedante suave.",
+        "symptoms": [
+            "Cólicos",
+            "Diarrea",
+            "Flatulencia / Gases",
+            "Indigestión",
+            "Náuseas",
+            "Vómito",
+            "Ansiedad",
+            "Nervios",
+            "Insomnio",
+            "Gripe / Resfriado febril / Fiebre",
+            "Dolores estomacales",
+            "Retortijones",
+            "Bacterias"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada de la planta para 1 litro de agua recién hervida, dejar reposar: beber 1 taza 3 a 4 veces al día.",
+        "precautions": "No administrar por un periodo prolongado de tiempo ni infusiones muy concentradas.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 6,
+        "name": "Llantén",
+        "short_name" : "llanten",
+        "wiki": "http://es.wikipedia.org/wiki/Plantago_major",
+        "scientific_name": "Plantago major L.",
+        "other_names": [
+            "Llantén mayor",
+            "Lantén",
+            "Llantén major"
+        ],
+        "important_parts": "Hojas",
+        "habitat": "Crece silvestre como maleza en casi todos los terrenos, y es considerada una “mala hierba” por los jardineros. Prefiere terrenos soleados y frescos, humedad en la fase vegetativa y sequedad desde la floración hasta la fructificación.",
+        "characteristics": "Antiséptico, astringente, desinflamante, cicatrizante, vulnerario, depurativo, afecciones hepáticas, expectorante, emoliente.",
+        "symptoms": [
+            "Úlceras digestivas",
+            "Hemorroides",
+            "Vaginitis",
+            "Gastritis",
+            "Diarrea",
+            "Afecciones hepáticas",
+            "Leucorrea",
+            "Gérmenes en la piel",
+            "Impurezas en la sangre"
+        ],
+        "preparation": "La infusión se prepara con 2 cucharadas de hojas para 1 litro de agua recién hervida: beber 1 taza 2-3 veces al día.\nUso externo: Para llagas, pústulas, hemorroides, vaginitis, leucorrea (flujo blanco), úlceras varicosas. Se usa localmente la infusión de manera directa o también en compresas con el jugo de las hojas recién machacadas o exprimidas.",
+        "precautions": "Evitar durante el embarazo. Infusiones muy concentradas pueden producir un efecto antihipertensivo y laxante potente.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 7,
+        "name": "Manzanilla",
+        "short_name" : "manzanilla",
+        "wiki": "http://es.wikipedia.org/wiki/Matricaria_recutita",
+        "scientific_name": "Matricaria Recutita",
+        "other_names": [
+            "Manzanilla",
+            "Manzanilla común",
+            "Manzanilla de Castilla",
+            "Manzanilla oficinal"
+        ],
+        "important_parts": "Cabezuelas florales",
+        "habitat": "Crece en terrenos templados y relativamente áridos; requiere agua para germinar. Se propaga por semillas; primero se siembra en almácigos de tierra rica en humus y las plántulas se trasplantan luego de 6 semanas. Requiere de bastante luz solar. Se recomienda fertilizar en forma orgánica. La cosecha se hace en el momento de máxima floración al medio día; pueden hacerse de 4-5 cortes cada 10-15 días.",
+        "characteristics": "Antibacteriano, Antiespasmódico, Diurético suave (Promueve y aumenta la producción de orina), Carminativo, Anti-inflamatorio, Cicatrizante.\nSu uso en el tratamiento sintomático de trastornos digestivos, desórdenes nerviosos, en problemas de la piel y mucosas; está avalado por estudios clínicos.",
+        "symptoms": [
+            "Heridas superficiales",
+            "Contusiones / Hematomas",
+            "Picaduras de insectos",
+            "Irritación bucal",
+            "Infección bucal",
+            "Ojos irritados",
+            "Cólicos abdominales",
+            "Hemorroides",
+            "Dolor de estómago / Dolor estomacal",
+            "Retortijones",
+            "Indigestión",
+            "Dispepsia / indigestión",
+            "Diarrea",
+            "Dolores menstruales",
+            "Flatulencia / Gases",
+            "Cistitis",
+            "Insomnio"
+        ],
+        "preparation": "La infusión se prepara con una  cucharada  de flores para 1 litro agua recién hervida; dejar reposar y filtrar: beber 1 taza 3 veces al día.\nUso  externo: Usar la misma infusión como gargarismos o para lavar zona a tratar o limpiar.\nUsar como compresas calientes sobre pared abdominal en caso de cólicos. En hemorroides usar primero como vahos de asiento (cuando la infusión está caliente) y luego en baños de asiento (cuando la temperatura es tolerable sin quemarse)",
+        "precautions": "Almacenar en envases bien cerrados y protegidos de la luz.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 8,
+        "name": "Matico",
+        "short_name" : "matico",
+        "wiki": "http://es.wikipedia.org/wiki/Buddleja_globosa",
+        "scientific_name": "Buddleja globosa Hope",
+        "other_names": [
+            "Matico chileno",
+            "Pañil",
+            "Palguín"
+        ],
+        "important_parts": "Hojas",
+        "habitat": "En nuestro país habita desde la provincia de Santiago hasta la Patagonia, generalmente en sitios húmedos.",
+        "characteristics": "Cicatrizante, analgésico, antimicótico, anti-inflamatorio.",
+        "symptoms": [
+            "Dolor de estómago / Dolor estomacal",
+            "Úlceras estomacales",
+            "Diarrea",
+            "Colitis",
+            "Afecciones hepáticas",
+            "Indigestión / Dispepsia",
+            "Contusiones / Hematomas",
+            "Heridas",
+            "Infección por hongos"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada de hojas para 1 litro de agua recién hervida: beber 1 taza 3 veces al día.\nUso externo: La misma infusión sirve para lavar heridas y en compresas para contusiones y hematomas (moretones)",
+        "precautions": "Evite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 9,
+        "name": "Melisa",
+        "short_name" : "melisa",
+        "wiki": "http://es.wikipedia.org/wiki/Melissa_officinalis",
+        "scientific_name": "Melissa officinalis L.",
+        "other_names": [
+            "Toronjil",
+            "Toronjil pa’ la pena",
+            "Toronjil de olor"
+        ],
+        "important_parts": "Hojas, flores y tallos",
+        "habitat": "Crece bien en climas templados con buen aporte de sol. Es una especie que requiere suelos de consistencia media, profundos, frescos, permeables, donde no se acumule humedad. Y es bastante sensible a las heladas, fríos intensos y a la falta de agua.",
+        "characteristics": "Propiedades estimulantes, estomacales, aromáticas, carminativas, antiespasmódicas, y antidepresivas.",
+        "symptoms": [
+            "Depresión",
+            "Nervios",
+            "Angustia",
+            "Insomnio",
+            "Ansiedad",
+            "Palpitaciones",
+            "Tensión",
+            "Dolor de cabeza / Cefaleas",
+            "Menopausia",
+            "Problemas cardíacos",
+            "Herpes"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua recién hervida: beber 1 taza 3 veces al día.\nUso externo: Para herpes simple, la misma infusión se usa en lavados o compresas.",
+        "precautions": "Evite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 10,
+        "name": "Menta",
+        "short_name" : "menta",
+        "wiki": "http://es.wikipedia.org/wiki/Mentha_x_piperita",
+        "scientific_name": "Mentha x piperita",
+        "other_names": [
+            "Menta negra",
+            "hierbabuena",
+            "toronjil de menta"
+        ],
+        "important_parts": "Hojas (frescas o secas) y ramas",
+        "habitat": "Crece muy bien en suelo rico en materia orgánica y algo húmedo; si en el jardín va a estar junto a otras plantas, es mejor plantarla con la misma maceta, ya que es muy invasora y competiría con las otras especies de alrededor. Si es necesario, se puede controlar su crecimiento recortándola de vez en cuando.\nEn primavera hay que aportar fertilizantes minerales.",
+        "characteristics": "Antiparasitario, antiespasmódico y digestivo",
+        "symptoms": [
+            "Dolor de cabeza / Cefaleas",
+            "Flatulencia / Gases",
+            "Náuseas",
+            "Mal aliento",
+            "Dolor de estómago / Dolor estomacal",
+            "Retortijones"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada de vegetal (6 a 8 hojas frescas) para 1 litro de agua recién hervida: beber 1 taza 3 veces al día.",
+        "precautions": "No se debe administrar a niños menores de 2 años.\nPrecaución para personas con cálculos biliares y madres que amamantan (puede reducir el flujo de leche).\nAlmacenar en envases bien cerrados y protegidos de la luz.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 11,
+        "name": "Paico",
+        "short_name" : "paico",
+        "wiki": "http://es.wikipedia.org/wiki/Dysphania_ambrosioides",
+        "scientific_name": "Chenopodium chilense Schrad",
+        "other_names": [
+            "Picheng (Mapudungún)",
+            "Epazote (México)"
+        ],
+        "important_parts": "Hojas",
+        "habitat": "Estas plantas crecen en climas templados. En Chile el paico brota espontáneamente en las cercanías de huertos, bordes de jardines, potreros, orilla de caminos, terraplenes, terrenos de cultivo. Debe ser regada regularmente y buena luminosidad.",
+        "characteristics": "Antiespasmódico, vermífugo, emenagogo, anti-inflamatorio.",
+        "symptoms": [
+            "Parásitos intestinales",
+            "Dismenorrea",
+            "Diarrea",
+            "Empacho",
+            "Dolor de estómago / Dolor estomacal",
+            "Indigestión",
+            "Estreñimiento",
+            "Cólicos intestinales",
+            "Dolores menstruales",
+            "Regla irregular",
+            "Retortijones",
+            "Lombrices intestinales"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada de hojas para 1 litro de agua recién hervida: beber 1 taza 3 veces al día.\nPara eliminar parásitos intestinales hacer una decocción (cocimiento), hirviendo 1 a 2 cucharadas de hojas para 1 litro de agua por 15 minutos, dejar reposar y colar: beber 1 taza en ayunas durante tres días seguidos.",
+        "precautions": "No administrar durante embarazo y lactancia. Evitar tratamientos prolongados.\nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    },
+    {
+        "id": 12,
+        "name": "Tilo",
+        "short_name" : "tilo",
+        "wiki": "http://es.wikipedia.org/wiki/Tilia_cordata",
+        "scientific_name": "Tilia Cordata Mill",
+        "other_names": [
+        	"Tilo",
+        	"Tila"
+        ],
+        "important_parts": "Flores, hojas",
+        "habitat": "Es una planta nativa de regiones cálidas de Europa. En su lugar de origen crece en forma silvestre, de preferencia en zonas de la cuenca del mediterráneo, sobre alturas.",
+        "characteristics": "Antiespasmódico, antitusivo, diaforético, sedante, diurético, anti-inflamatorio.",
+        "symptoms": [
+            "Gripe",
+            "Fiebre",
+            "Resfrío",
+            "Tos",
+            "Ansiedad",
+            "Nerviosismo",
+            "Insomnio",
+            "Edema / Retención de líquido",
+            "Retortijones"
+        ],
+        "preparation": "La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua recién hervida: beber 1 taza 3 veces al día. En los estados gripales usar la infusión caliente, en los demás fría.",
+        "precautions": "Puede potenciar el efecto sedante de antihistamínicos, barbitúricos, benzodiacepinas y alcohol, por lo que se aconseja no administrar en forma conjunta. Se debe evitar su uso excesivo. \nEvite su preparación en utensilios de aluminio.\nEstos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está usando esta hierba medicinal."
+    }
+]
